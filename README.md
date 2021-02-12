@@ -1,12 +1,12 @@
 # Zana_challenge
 
 ## Task 1 : Word vectorizer using fastText (Zana_test_task1.ipynb)
-1-a
+### 1-a
 * Used the fasttext-wiki-news-subwords-300 dataset
-1-b
+### 1-b
 * Cleaned the text of the small dataset given
 * Generated the word vectors
-1-c
+### 1-c
 * Uploaded the csv file : 'wv_task1.csv'
 
 ## Task 2 : Multi class text classification
