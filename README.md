@@ -1,6 +1,6 @@
-# Zana_challenge
+# Text Classification
 
-## Task 1 : Word vectorizer using fastText (Zana_test_task1.ipynb)
+## Task 1 : Word vectorizer using fastText
 ### 1-a
 * Used the fasttext-wiki-news-subwords-300 dataset
 ### 1-b
